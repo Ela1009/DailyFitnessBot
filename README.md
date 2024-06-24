@@ -23,9 +23,6 @@ sqlite3
 git clone https://github.com/yourusername/DailyFitnessBot.git
 cd DailyFitnessBot
 
-<h3>Install dependencies:</h3>
-pip install -r requirements.txt
-
 <h3>Database setup:</h3>
 Ensure you have SQLite installed.
 Create a new SQLite database file (fitness_bot.db).
