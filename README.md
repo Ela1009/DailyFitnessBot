@@ -1,4 +1,4 @@
-<h1>DailyFitnessBot</h1>
+<h1>DailyFitnessBot </h1>
 
 DailyFitnessBot is a Python script that sends daily fitness tips, workout routines, and motivational quotes to users via WhatsApp. It fetches data from various fitness APIs and schedules messages based on user preferences stored in a SQLite database.
 
